@@ -8,6 +8,6 @@
 
 <img src="https://github.com/stnc/magento-size-guide-ajax/blob/master/picture/frontend2.png?raw=true"> 
 
-### Backend 
+### Backend (CMS --> Static Blocks)
 
 <img src="https://github.com/stnc/magento-size-guide-ajax/blob/master/picture/backend.png?raw=true">

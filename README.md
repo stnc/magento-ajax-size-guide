@@ -11,3 +11,5 @@
 ### Backend (CMS --> Static Blocks)
 
 <img src="https://github.com/stnc/magento-size-guide-ajax/blob/master/picture/backend.png?raw=true">
+
+bootstrap dependencies 
